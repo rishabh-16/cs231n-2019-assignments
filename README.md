@@ -30,7 +30,7 @@ Link to course website - [http://cs231n.stanford.edu/](http://cs231n.stanford.ed
 - Image Captioning with Vanilla RNNs
 	- [Notebook](https://github.com/rishabh-16/CS231N-2019-assignments/blob/master/assignment3/RNN_Captioning.ipynb)
 - Image Captioning with LSTMs
-		- [Notebook](https://github.com/rishabh-16/CS231N-2019-assignments/blob/master/assignment3/LSTM_Captioning.ipynb)
+	- [Notebook](https://github.com/rishabh-16/CS231N-2019-assignments/blob/master/assignment3/LSTM_Captioning.ipynb)
 - Network Visualization
 	- [Tensorflow_Notebook](https://github.com/rishabh-16/CS231N-2019-assignments/blob/master/assignment3/NetworkVisualization-TensorFlow.ipynb), [PyTorch_Notebook](https://github.com/rishabh-16/CS231N-2019-assignments/blob/master/assignment3/NetworkVisualization-PyTorch.ipynb)
 - Style Transfer
