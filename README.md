@@ -1,4 +1,4 @@
-# CS231N-2019-assignments
+# cs231n-2019-assignments
 Solutions to CS231n Assignments: Convolutional Neural Networks for Visual Recognition
 Link to course website - [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
 
