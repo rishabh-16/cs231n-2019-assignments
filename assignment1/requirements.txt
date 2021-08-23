@@ -23,7 +23,7 @@ jupyter==1.0.0
 jupyter-client==5.2.4
 jupyter-console==6.0.0
 jupyter-core==4.4.0
-jupyterlab==0.35.4
+jupyterlab==1.2.21
 jupyterlab-server==0.2.0
 kiwisolver==1.0.1
 MarkupSafe==1.1.1
