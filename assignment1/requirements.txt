@@ -30,7 +30,7 @@ MarkupSafe==1.1.1
 matplotlib==3.0.3
 mistune==0.8.4
 nbconvert==5.4.1
-nbdime==1.0.5
+nbdime==1.1.1
 nbformat==4.4.0
 notebook==5.7.8
 numpy==1.16.2
