@@ -59,7 +59,7 @@ Send2Trash==1.5.0
 six==1.12.0
 # Add this line if you want GPU support for tensorflow!
 # tensorflow-gpu==2.0.0a0
-tensorflow==2.0.0a0
+tensorflow==2.6.4
 termcolor==1.1.0
 terminado==0.8.2
 testpath==0.4.2
